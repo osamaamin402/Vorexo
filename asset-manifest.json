@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/osamaamin402/Vorexo/static/css/main.ae42ac5f.css",
+    "main.js": "/osamaamin402/Vorexo/static/js/main.ffc1e70d.js",
+    "index.html": "/osamaamin402/Vorexo/index.html",
+    "main.ae42ac5f.css.map": "/osamaamin402/Vorexo/static/css/main.ae42ac5f.css.map",
+    "main.ffc1e70d.js.map": "/osamaamin402/Vorexo/static/js/main.ffc1e70d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.ffc1e70d.js"
+  ]
+}
