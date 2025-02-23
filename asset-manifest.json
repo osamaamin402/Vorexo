@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/osamaamin402/Vorexo/static/css/main.ae42ac5f.css",
-    "main.js": "/osamaamin402/Vorexo/static/js/main.ffc1e70d.js",
-    "index.html": "/osamaamin402/Vorexo/index.html",
-    "main.ae42ac5f.css.map": "/osamaamin402/Vorexo/static/css/main.ae42ac5f.css.map",
-    "main.ffc1e70d.js.map": "/osamaamin402/Vorexo/static/js/main.ffc1e70d.js.map"
+    "main.css": "/Vorexo/static/css/main.ae42ac5f.css",
+    "main.js": "/Vorexo/static/js/main.ffc1e70d.js",
+    "index.html": "/Vorexo/index.html",
+    "main.ae42ac5f.css.map": "/Vorexo/static/css/main.ae42ac5f.css.map",
+    "main.ffc1e70d.js.map": "/Vorexo/static/js/main.ffc1e70d.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
