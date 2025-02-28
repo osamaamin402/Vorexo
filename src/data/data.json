@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "We are a VOREXO",
+    "paragraph": "At Vorexo IT Services and Consultancy, we are committed to providing top-notch IT services, seamless job placements, and comprehensive IT & Non-IT courses to help individuals and businesses thrive in today’s digital world."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Vorexo IT Services and Consultancy, we specialize in providing cutting-edge IT solutions, job placement services, and industry-focused training programs in both IT and Non-IT fields. Our goal is to empower businesses with innovative technology solutions while equipping individuals with the skills and opportunities needed for a successful career. With a strong industry network, expert guidance, and a commitment to excellence, we bridge the gap between talent and opportunity, ensuring growth, success, and a brighter future for our clients and candidates alike.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Expertise in IT Services",
+      "Strong Industry Network",
+      "Experienced Mentors & Trainers",
+      "Industry-Focused Training Programs"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Customized Business Solutions",
+      "End-to-End Job Placement Support",
+      "Career Guidance & Skill Development",
+      "Commitment to Excellence"
     ]
   },
   "Gallery": [
@@ -184,23 +184,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Comprehensive IT Solutions",
+      "text": "From software development to cybersecurity, we provide tailored IT services for businesses of all sizes."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Career-Oriented Job Placements",
+      "text": "We connect job seekers with top companies, ensuring the right opportunities in both IT & Non-IT sectors."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Industry-Focused Training Programs",
+      "text": "Learn in-demand skills with expert-led IT & Non-IT courses designed for career growth."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Dedicated Support & Consultancy",
+      "text": "Get personalized guidance for business IT needs, career planning, and professional skill development."
     }
   ]
 }
