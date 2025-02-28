@@ -67,88 +67,73 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud",
+      "name": "IT Services",
+      "text": "Innovative technology solutions, including software development, cloud computing, and cybersecurity."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-briefcase",
+      "name": "Job Placements",
+      "text": "Connecting skilled professionals with top companies in IT and Non-IT sectors."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-industry",
+      "name": "IT & Non-IT Courses",
+      "text": "Industry-driven training programs to enhance career growth and skill development."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Career Guidance & Consulting",
+      "text": "Expert mentorship, resume building, and interview preparation for job seekers."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Vorexo IT Services and Consultancy has been a game-changer for our business. Their expertise in software development and cloud solutions helped us streamline our operations and enhance productivity. Their team is highly professional, responsive, and committed to delivering excellence. We highly recommend their IT services!\"",
+      "name": "Rahul Sharma, CTO, TechNova Solutions"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Partnering with Vorexo IT Services and Consultancy was one of our best decisions. Their cybersecurity solutions strengthened our data protection, and their innovative IT strategies helped us scale efficiently. Their support and dedication are unmatched, making them a trusted technology partner.\"",
+      "name": "Emily Carter, CEO, CodeCrafters Inc"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Vorexo IT Services and Consultancy played a crucial role in shaping my career. Their expert guidance, interview preparation, and industry connections helped me land my dream job as a Software Developer. I’m grateful for their support and highly recommend their placement services to all job seekers!\"",
+      "name": "Rohit Khandelwal – Software Developer (IT Placement)"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I was struggling to find the right job opportunity until I connected with Vorexo IT Services and Consultancy. Their placement team understood my skills and helped me secure a role as a Back-Office Executive in a reputed company. Thank you for making my job search so smooth and successful!\"",
+      "name": "Aisha Khan – Back-Office Executive (Non-IT Placement)"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Enrolling in the Full Stack Java course at Vorexo IT Services and Consultancy was the best decision for my career. The hands-on training, real-world projects, and expert mentorship helped me gain in-depth knowledge and confidence. Thanks to Vorexo, I am now working as a Full Stack Developer!\"",
+      "name": "Neha Patel – Full Stack Java Developer"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Vorexo’s Data Analytics course provided me with the skills and industry insights needed to break into the field. The practical approach, case studies, and career guidance made all the difference. I successfully transitioned into a data-driven role, and I owe my success to Vorexo!\"",
+      "name": "Sameer Deshmukh – Data Analytics"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Akshay Pardhi",
+      "job": "Co-Founder & CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Mukhtar Khan",
+      "job": "Co-Founder & Managing Director"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "khushboo kumari",
+      "job": "HR Manager"
     }
   ],
   "Partners": [
@@ -183,22 +168,22 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-laptop",
       "title": "Comprehensive IT Solutions",
       "text": "From software development to cybersecurity, we provide tailored IT services for businesses of all sizes."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-briefcase",
       "title": "Career-Oriented Job Placements",
       "text": "We connect job seekers with top companies, ensuring the right opportunities in both IT & Non-IT sectors."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-industry",
       "title": "Industry-Focused Training Programs",
       "text": "Learn in-demand skills with expert-led IT & Non-IT courses designed for career growth."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-handshake-o",
       "title": "Dedicated Support & Consultancy",
       "text": "Get personalized guidance for business IT needs, career planning, and professional skill development."
     }

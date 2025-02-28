@@ -7,8 +7,8 @@ export const Partners = (props) => {
         <div className="section-title text-center">
           <h2>Our Partners</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          We proudly partner with 110+ leading companies, driving excellence in IT services, 
+          job placements, and training to create endless opportunities.
           </p>
         </div>
         <div id="row">
