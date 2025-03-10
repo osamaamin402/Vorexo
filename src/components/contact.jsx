@@ -153,10 +153,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 Vorexo. Design by{" "}
-            <a href="https://www.linkedin.com/in/osama-amin-khan-855299185/" rel="nofollow">
-              Osama Amin Khan
-            </a>
+            &copy; 2023 Vorexo. All rights reserved{" "}
           </p>
         </div>
       </div>
