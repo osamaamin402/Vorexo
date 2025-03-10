@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Vorexo/static/css/main.ae42ac5f.css",
-    "main.js": "/Vorexo/static/js/main.046a7c5e.js",
+    "main.js": "/Vorexo/static/js/main.b1fb771f.js",
     "index.html": "/Vorexo/index.html",
     "main.ae42ac5f.css.map": "/Vorexo/static/css/main.ae42ac5f.css.map",
-    "main.046a7c5e.js.map": "/Vorexo/static/js/main.046a7c5e.js.map"
+    "main.b1fb771f.js.map": "/Vorexo/static/js/main.b1fb771f.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.046a7c5e.js"
+    "static/js/main.b1fb771f.js"
   ]
 }
