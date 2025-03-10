@@ -82,7 +82,7 @@
       "text": "Industry-driven training programs to enhance career growth and skill development."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-users",
       "name": "Career Guidance & Consulting",
       "text": "Expert mentorship, resume building, and interview preparation for job seekers."
     }
@@ -138,33 +138,33 @@
   ],
   "Partners": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/partners/Iceico Partner-1.png",
+      "name": "ICEICO TECHNOLOGIES",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "img": "img/partners/Time Consultancy Partner-1.jpg",
+      "name": "TradingStation Academy",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "img": "img/partners/Trading Station Acadmey Partner-1.jpg",
+      "name": "Time consultancy",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "img/partners/zyvka Partner.jpg",
+      "name": "ZYVKA",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": " Amravati, Maharashtra 444601",
+    "phone": "+91-7775843729/ 8390220874",
+    "email": "admin@vorexos.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "https://www.youtube.com/"
   },
   "Features": [
     {
