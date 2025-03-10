@@ -246,6 +246,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+  padding-top: 100px;
   background: #f6f6f6;
 }
 #features i.fa {
@@ -622,4 +623,11 @@ label {
   #about img {
     margin: 50px 0;
   }
+}
+.imgset{
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  
+  mix-blend-mode: darken;
 }
