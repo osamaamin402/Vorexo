@@ -2,8 +2,8 @@ import React from "react";
 
 export const Navigation = (props) => {
   return (
-    <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-      <div className="container">
+    <nav id="menu"  className="navbar navbar-default navbar-fixed-top">
+      <div className="container-fluid">
         <div className="navbar-header">
           <button
             type="button"
@@ -17,8 +17,13 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            VOREXO
+
+          <a className="page-scroll" href="#page-top">
+            <div class="logo">
+              <img src="img/Logo.png" alt="VOREXO Logo" class="logo-img" />
+              <span class="logo-text">VOREXO</span>
+            </div>
+
           </a>{" "}
         </div>
 

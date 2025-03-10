@@ -21,48 +21,28 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/gallery/Gallery collection -1.png",
+      "smallImage": "img/gallery/Gallery collection -1.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/gallery/Gallery Collection-2 -1.png",
+      "smallImage": "img/gallery/Gallery Collection-2 -1.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/gallery/Individual Focuesd Gallery-1.jpg",
+      "smallImage": "img/gallery/Individual Focuesd Gallery-1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/gallery/Learning Image Gallery.jpg",
+      "smallImage": "img/gallery/Learning Image Gallery.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "largeImage": "img/gallery/Teaching Gallery -1.jpg",
+      "smallImage": "img/gallery/Teaching Gallery -1.jpg"
     }
   ],
   "Services": [
@@ -138,6 +118,11 @@
   ],
   "Partners": [
     {
+      "img": "img/partners/zyvka Partner.jpg",
+      "name": "ZYVKA",
+      "job": "Project Manager"
+    },
+    {
       "img": "img/partners/Iceico Partner-1.png",
       "name": "ICEICO TECHNOLOGIES",
       "job": "Director"
@@ -151,11 +136,6 @@
       "img": "img/partners/Trading Station Acadmey Partner-1.jpg",
       "name": "Time consultancy",
       "job": "Senior Designer"
-    },
-    {
-      "img": "img/partners/zyvka Partner.jpg",
-      "name": "ZYVKA",
-      "job": "Project Manager"
     }
   ],
   "Contact": {
