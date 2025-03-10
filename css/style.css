@@ -631,3 +631,32 @@ label {
   
   mix-blend-mode: darken;
 }
+/* Container for the logo */
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; /* Space between the logo image and text */
+}
+
+/* Style for the logo image */
+.logo-img {
+  width: 50px; /* Adjust the size of the logo image */
+  height: auto;
+  transition: transform 0.3s ease; /* Smooth transition effect */
+}
+
+/* Make the logo image double in size on hover */
+.logo-img:hover {
+  margin-top: 20px;
+  margin-right: 15px;
+  transform: scale(2); /* Doubles the size */
+}
+
+/* Style for the company name text */
+.logo-text {
+  font-size: 24px; /* Adjust text size */
+  font-weight: bold;
+  color: #333; /* Adjust the color to match the brand */
+  font-family: Arial, sans-serif; /* Change the font family to fit the brand */
+}
