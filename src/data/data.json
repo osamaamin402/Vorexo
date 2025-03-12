@@ -89,32 +89,32 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/r.jpg",
       "text": "\"Vorexo IT Services and Consultancy has been a game-changer for our business. Their expertise in software development and cloud solutions helped us streamline our operations and enhance productivity. Their team is highly professional, responsive, and committed to delivering excellence. We highly recommend their IT services!\"",
       "name": "Rahul Sharma, CTO, TechNova Solutions"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/testimonials/e.jpg",
       "text": "\"Partnering with Vorexo IT Services and Consultancy was one of our best decisions. Their cybersecurity solutions strengthened our data protection, and their innovative IT strategies helped us scale efficiently. Their support and dedication are unmatched, making them a trusted technology partner.\"",
       "name": "Emily Carter, CEO, CodeCrafters Inc"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/testimonials/r.jpg",
       "text": "\"Vorexo IT Services and Consultancy played a crucial role in shaping my career. Their expert guidance, interview preparation, and industry connections helped me land my dream job as a Software Developer. I’m grateful for their support and highly recommend their placement services to all job seekers!\"",
       "name": "Rohit Khandelwal – Software Developer (IT Placement)"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "img/testimonials/a.jpg",
       "text": "\"I was struggling to find the right job opportunity until I connected with Vorexo IT Services and Consultancy. Their placement team understood my skills and helped me secure a role as a Back-Office Executive in a reputed company. Thank you for making my job search so smooth and successful!\"",
       "name": "Aisha Khan – Back-Office Executive (Non-IT Placement)"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      "img": "img/testimonials/n.jpg",
       "text": "\"Enrolling in the Full Stack Java course at Vorexo IT Services and Consultancy was the best decision for my career. The hands-on training, real-world projects, and expert mentorship helped me gain in-depth knowledge and confidence. Thanks to Vorexo, I am now working as a Full Stack Developer!\"",
       "name": "Neha Patel – Full Stack Java Developer"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      "img": "img/testimonials/s.jpg",
       "text": "\"Vorexo’s Data Analytics course provided me with the skills and industry insights needed to break into the field. The practical approach, case studies, and career guidance made all the difference. I successfully transitioned into a data-driven role, and I owe my success to Vorexo!\"",
       "name": "Sameer Deshmukh – Data Analytics"
     }
