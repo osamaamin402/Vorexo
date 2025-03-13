@@ -631,6 +631,11 @@ label {
   
   mix-blend-mode: darken;
 }
+.team-imgset{
+  width: 80%;
+  aspect-ratio: 2/2;
+  object-fit: contain;
+}
 /* Container for the logo */
 .logo {
   display: flex;
