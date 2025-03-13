@@ -21,13 +21,13 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/gallery/Gallery collection -1.png",
-      "smallImage": "img/gallery/Gallery collection -1.png"
+      "largeImage": "img/gallery/01.png",
+      "smallImage": "img/gallery/01.png"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/gallery/Gallery Collection-2 -1.png",
-      "smallImage": "img/gallery/Gallery Collection-2 -1.png"
+      "largeImage": "img/gallery/02.png",
+      "smallImage": "img/gallery/02.png"
     },
     {
       "title": "Project Title",
@@ -121,17 +121,17 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/akshay.jpg",
       "name": "Akshay Pardhi",
       "job": "Co-Founder & CEO"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/Mukhtar_Image.jpg",
       "name": "Mukhtar Khan",
       "job": "Co-Founder & Managing Director"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/khushbu.jpg",
       "name": "Khushboo Kumari",
       "job": "HR Manager"
     }
